@@ -1,0 +1,10 @@
+Installation-
+1. Create Database (User with all permissions)
+2. Replace Database Details in (config.php, englishcommenter.php, hindicommenter.php, liker.php, punjabicommenter.php, recentusers.php, spamcommenter.php, z_like.php and token_check.php)
+3. Open liker.php and replace (yoursite.com) to your domain.
+4. Open verify.php and replace (yoursite.com) to your domain.
+5. Open PhpMyAdmin and Import cookie.sql to your database.
+Enjoy. :)
+
+Advanced-
+Open z_like.php and set your amount of likes. Default - 156
